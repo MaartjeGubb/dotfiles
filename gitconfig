@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = m.gubbels96@gmail.com
+	name = maartje gubbels
